@@ -1,4 +1,4 @@
-# My Published Videos and Info
+# My Key Published Videos Series
 
 Table of Contents
 1. [Ontology Practice - Build pizza.owl in Protégé](https://yasenstar.github.io/video_published/#ontology-practice---build-pizzaowl-in-prot%C3%A9g%C3%A9-)
@@ -8,6 +8,7 @@ Table of Contents
 5. [Archi Tool Modeling Practice - ArchiMetal (ArchiMate)](https://yasenstar.github.io/video_published/#archi-tool-modeling-practice---archimetal-archimate)
 6. [Mastering OpenSCAD within 10 Projects](https://yasenstar.github.io/video_published/#mastering-openscad-within-10-projects)
 7. [OpenSCAD - 3D Modeling Practice - Tutorials](https://yasenstar.github.io/video_published/#openscad---3d-modeling-practice---tutorials)
+8. [啊哈C语言 (aha C language)](https://yasenstar.github.io/video_published/#%E5%95%8A%E5%93%88c%E8%AF%AD%E8%A8%80-aha-c-language)
 
 ---
 
@@ -94,8 +95,6 @@ Video List (total 38 videos):
 | Video List | Progress |
 | --- | --- |
 | [YouTube](https://www.youtube.com/playlist?list=PL6DEHvciXKeU6STbudArH_S1t74sa2hkt) | ![](https://geps.dev/progress/100) |
-
-Last updated at 
 
 ---
 
