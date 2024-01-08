@@ -28,6 +28,27 @@ Video List (total 47 videos):
 
 ---
 
+## Python with MS Office《让Python遇上Office - 从编程入门到自动化办公实践》
+
+让Python遇上Office - 从编程入门到自动化办公实践
+作者：潘美冰
+
+Code is hosted in both of below repository:
+https://github.com/yasenstar/python_with_office
+https://gitee.com/yasenstar/python_with_office
+
+Here is intro from author: https://www.bilibili.com/video/BV17w411m7KW/?vd_source=7d95c69e0f1b6118e7aa792800ac8c8d#reply198123997776
+
+If you feel the videos are some useful to you, welcome to put your sponsor to me (https://github.com/sponsors/yasenstar) so that I will be encouraged for more works.
+
+Video List (total 91 videos):
+
+| Video List | Progress |
+| --- | --- |
+| [YouTube](https://www.youtube.com/playlist?list=PL6DEHvciXKeV6tgqhNG9tS9_tWktoocvA) | ![](https://geps.dev/progress/100) |
+| [西瓜视频](https://www.ixigua.com/7300628369392353855?&&id=7321733332813906495) | ![](https://geps.dev/progress/67) |
+| [抖音](https://www.douyin.com/collection/7300632545580812323/1) | ![](https://geps.dev/progress/67) |
+
 ## Simplified and Effective LaTeX 《简单高效LaTeX》
 
 Learning LaTeX (https://en.wikipedia.org/wiki/LaTeX) by practicing in hands-on work, thanks for Mr. Kanglong Wu's great book
@@ -70,6 +91,21 @@ Video List (total 38 videos):
 | [YouTube](https://www.youtube.com/playlist?list=PL6DEHvciXKeU6STbudArH_S1t74sa2hkt) | ![](https://geps.dev/progress/100) |
 
 Last updated at 
+
+---
+
+## Mastering OpenSCAD within 10 Projects
+
+Base on the nice book "Mastering OpenSCAD within 10 projects" by Jochen Kerdels (https://mastering-openscad.eu/), total 31 videos, learning by sharing my hands-on practice.
+
+All project model files are tracked can be found in my Github repository: https://github.com/yasenstar/openscad, enjoy!
+
+Video List (total 31 videos):
+
+| Video List | Progress |
+| --- | --- |
+| [YouTube](https://www.youtube.com/playlist?list=PL6DEHvciXKeW_08V5guF_LIaxTOnx5b-s) | ![](https://geps.dev/progress/100) |
+| [西瓜视频](https://www.ixigua.com/7298533711610380850?&&id=7314474747650441769) | ![](https://geps.dev/progress/100) |
 
 ---
 
