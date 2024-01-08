@@ -1,12 +1,12 @@
 # My Published Videos and Info
 
 Table of Contents
-1. [Ontology Practice - Build pizza.owl in Protégé](ontology-pizza)
-2. [Simplified and Effective LaTeX 《简单高效LaTeX》](effective-latex)
+1. [Ontology Practice - Build pizza.owl in Protégé](https://yasenstar.github.io/video_published/#ontology-practice---build-pizzaowl-in-prot%C3%A9g%C3%A9-)
+2. [Simplified and Effective LaTeX 《简单高效LaTeX》](https://yasenstar.github.io/video_published/#simplified-and-effective-latex-%E7%AE%80%E5%8D%95%E9%AB%98%E6%95%88latex)
 
 ---
 
-## Ontology Practice - Build pizza.owl in Protégé <a name="ontology-pizza"></a>
+## Ontology Practice - Build pizza.owl in Protégé 
 
 学习使用Protege建立Ontology (Pizza.owl)
 
@@ -28,7 +28,7 @@ Video List (total 47 videos):
 
 ---
 
-## Simplified and Effective LaTeX 《简单高效LaTeX》<a name="effective-latex"></a>
+## Simplified and Effective LaTeX 《简单高效LaTeX》
 
 Learning LaTeX (https://en.wikipedia.org/wiki/LaTeX) by practicing in hands-on work, thanks for Mr. Kanglong Wu's great book
 
@@ -46,3 +46,45 @@ Video List (total 26 videos):
 | [抖音](https://www.douyin.com/collection/7302186079967250441/1) | ![](https://geps.dev/progress/100) |
 
 ---
+
+## Archi Tool Modeling Practice - ArchiSurance (ArchiMate)
+
+Using OpenGroup ArchiSurance case study as example, step by step modeling practice in Archi (ArchiMate Modeling Tool), useful for enterprise architect to learn and adopt the hands-on experience to convert static information into linked repository-based model. (Visit support repository in github: https://github.com/yasenstar/ArchiSurance_Practice)
+
+Video List (total 45 videos):
+
+| Video List | Progress |
+| --- | --- |
+| [YouTube](https://www.youtube.com/playlist?list=PL6DEHvciXKeXj1IlGBRB0KMaSv5Xt38uk) | ![](https://geps.dev/progress/100) |
+
+---
+
+## Archi Tool Modeling Practice - ArchiMetal (ArchiMate)
+
+Apply architectural modeling tools for ArchiMate case study - ArchiMetal, repository is here: https://github.com/yasenstar/ArchiMetal_Practice
+
+Video List (total 38 videos):
+
+| Video List | Progress |
+| --- | --- |
+| [YouTube](https://www.youtube.com/playlist?list=PL6DEHvciXKeU6STbudArH_S1t74sa2hkt) | ![](https://geps.dev/progress/100) |
+
+Last updated at 
+
+---
+
+## OpenSCAD - 3D Modeling Practice - Tutorials
+
+Visit my github repository https://github.com/yasenstar/openscad for more information on this hands-on learning and practice.
+
+Tutorial link in OpenSCAD site: https://openscad.org/documentation.html#tutorial
+
+Video List (total 38 videos):
+
+| Video List | Progress |
+| --- | --- |
+| [YouTube](https://www.youtube.com/playlist?list=PL6DEHvciXKeUwcYw7k4wKWhW1cbE_omAg) | ![](https://geps.dev/progress/100) |
+
+---
+
+Want more topics? Reach me at <xiaoqizhao@outlook.com> and I'll put in the backlog and prepare.
