@@ -14,7 +14,9 @@ If you feel the videos are some useful to you, welcome to put your sponsor to me
 
 Video List (total 47 videos):
 
-- [YouTube](https://www.youtube.com/playlist?list=PL6DEHvciXKeUx4P32B3hKMK1t6mC8RhsW) ![](https://geps.dev/progress/100)
-- [西瓜视频](https://www.ixigua.com/7297974941184918043?&&id=7298697973969224232) ![](https://geps.dev/progress/100)
-- [抖音](https://www.douyin.com/collection/7298169423012038708/1) ![](https://geps.dev/progress/100)
+| Video Site | Progress |
+| --- | --- |
+| [YouTube](https://www.youtube.com/playlist?list=PL6DEHvciXKeUx4P32B3hKMK1t6mC8RhsW) | ![](https://geps.dev/progress/100) |
+| [西瓜视频](https://www.ixigua.com/7297974941184918043?&&id=7298697973969224232) | ![](https://geps.dev/progress/100) |
+| [抖音](https://www.douyin.com/collection/7298169423012038708/1) | ![](https://geps.dev/progress/100) |
 
