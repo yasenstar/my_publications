@@ -123,4 +123,22 @@ Video List (total 38 videos):
 
 ---
 
+## 啊哈C语言 (aha C language)
+
+小学生坐在马桶上都能读懂的C语言书
+
+GitHub: https://github.com/yasenstar/aha-C 
+
+Gitee: https://gitee.com/yasenstar/aha-C
+
+Video List (Working on, estimated total 50 videos):
+
+| Video List | Progress |
+| --- | --- |
+| [YouTube](https://www.youtube.com/playlist?list=PL6DEHvciXKeVzQIMSwYjtMO3v8HmU9OOZ) | ![](https://geps.dev/progress/36) |
+| [西瓜视频](https://www.ixigua.com/7318561329411949071?&&id=7319143671516168713) | ![](https://geps.dev/progress/12) |
+| [抖音](https://www.douyin.com/collection/7318783352662657060/1) | ![](https://geps.dev/progress/12) |
+
+---
+
 Want more topics? Reach me at <xiaoqizhao@outlook.com> and I'll put in the backlog and prepare.
