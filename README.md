@@ -2,7 +2,12 @@
 
 Table of Contents
 1. [Ontology Practice - Build pizza.owl in Protégé](https://yasenstar.github.io/video_published/#ontology-practice---build-pizzaowl-in-prot%C3%A9g%C3%A9-)
-2. [Simplified and Effective LaTeX 《简单高效LaTeX》](https://yasenstar.github.io/video_published/#simplified-and-effective-latex-%E7%AE%80%E5%8D%95%E9%AB%98%E6%95%88latex)
+2. [Python with MS Office《让Python遇上Office - 从编程入门到自动化办公实践》](https://yasenstar.github.io/video_published/#python-with-ms-office%E8%AE%A9python%E9%81%87%E4%B8%8Aoffice---%E4%BB%8E%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8%E5%88%B0%E8%87%AA%E5%8A%A8%E5%8C%96%E5%8A%9E%E5%85%AC%E5%AE%9E%E8%B7%B5)
+3. [Simplified and Effective LaTeX 《简单高效LaTeX》](https://yasenstar.github.io/video_published/#simplified-and-effective-latex-%E7%AE%80%E5%8D%95%E9%AB%98%E6%95%88latex)
+4. [Archi Tool Modeling Practice - ArchiSurance (ArchiMate)](https://yasenstar.github.io/video_published/#archi-tool-modeling-practice---archisurance-archimate)
+5. [Archi Tool Modeling Practice - ArchiMetal (ArchiMate)](https://yasenstar.github.io/video_published/#archi-tool-modeling-practice---archimetal-archimate)
+6. [Mastering OpenSCAD within 10 Projects](https://yasenstar.github.io/video_published/#mastering-openscad-within-10-projects)
+7. [OpenSCAD - 3D Modeling Practice - Tutorials](https://yasenstar.github.io/video_published/#openscad---3d-modeling-practice---tutorials)
 
 ---
 
