@@ -110,6 +110,7 @@ Video List (total 31 videos):
 | --- | --- |
 | [YouTube](https://www.youtube.com/playlist?list=PL6DEHvciXKeW_08V5guF_LIaxTOnx5b-s) | ![](https://geps.dev/progress/100) |
 | [西瓜视频](https://www.ixigua.com/7298533711610380850?&&id=7314474747650441769) | ![](https://geps.dev/progress/100) |
+| [抖音](https://www.douyin.com/collection/7300953123135162378/1) | ![](https://geps.dev/progress/100) |
 
 ---
 
