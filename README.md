@@ -52,8 +52,8 @@ Video List (total 91 videos):
 | Video List | Progress |
 | --- | --- |
 | [YouTube](https://www.youtube.com/playlist?list=PL6DEHvciXKeV6tgqhNG9tS9_tWktoocvA) | ![](https://geps.dev/progress/100) |
-| [西瓜视频](https://www.ixigua.com/7300628369392353855?&&id=7321733332813906495) | ![](https://geps.dev/progress/67) |
-| [抖音](https://www.douyin.com/collection/7300632545580812323/1) | ![](https://geps.dev/progress/67) |
+| [西瓜视频](https://www.ixigua.com/7300628369392353855?&&id=7321733332813906495) | ![](https://geps.dev/progress/68) |
+| [抖音](https://www.douyin.com/collection/7300632545580812323/1) | ![](https://geps.dev/progress/68) |
 
 ## Simplified and Effective LaTeX 《简单高效LaTeX》
 
