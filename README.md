@@ -18,9 +18,9 @@ Table of Contents
 
 Using protégé tool to practice Ontology (OWL, RDF, SPARQL), total 54 videos
 
-Protégé Learning Repository: https://github.com/yasenstar/protege_pizza
+Protégé Learning Repository: [https://github.com/yasenstar/protege_pizza](https://github.com/yasenstar/protege_pizza)
 
-Protégé Pizza Tutorial: https://www.michaeldebellis.com/post/new-protege-pizza-tutorial
+Protégé Pizza Tutorial: [https://www.michaeldebellis.com/post/new-protege-pizza-tutorial](https://www.michaeldebellis.com/post/new-protege-pizza-tutorial)
 
 If you feel the videos are some useful to you, welcome to put your sponsor to me (https://github.com/sponsors/yasenstar) so that I will be encouraged for more works.
 
@@ -40,12 +40,13 @@ Video List (total 47 videos):
 作者：潘美冰
 
 Code is hosted in both of below repository:
-https://github.com/yasenstar/python_with_office
-https://gitee.com/yasenstar/python_with_office
 
-Here is intro from author: https://www.bilibili.com/video/BV17w411m7KW/?vd_source=7d95c69e0f1b6118e7aa792800ac8c8d#reply198123997776
+- [https://github.com/yasenstar/python_with_office](https://github.com/yasenstar/python_with_office)
+- [https://gitee.com/yasenstar/python_with_office](https://gitee.com/yasenstar/python_with_office)
 
-If you feel the videos are some useful to you, welcome to put your sponsor to me (https://github.com/sponsors/yasenstar) so that I will be encouraged for more works.
+Here is [the introduction from author](https://www.bilibili.com/video/BV17w411m7KW/?vd_source=7d95c69e0f1b6118e7aa792800ac8c8d#reply198123997776)
+
+If you feel the videos are some useful to you, welcome to put your sponsor to me ([https://github.com/sponsors/yasenstar](https://github.com/sponsors/yasenstar)) so that I will be encouraged for more works.
 
 Video List (total 91 videos):
 
@@ -57,12 +58,12 @@ Video List (total 91 videos):
 
 ## Simplified and Effective LaTeX 《简单高效LaTeX》
 
-Learning LaTeX (https://en.wikipedia.org/wiki/LaTeX) by practicing in hands-on work, thanks for Mr. Kanglong Wu's great book
+Learning LaTeX ([https://en.wikipedia.org/wiki/LaTeX](https://en.wikipedia.org/wiki/LaTeX)) by practicing in hands-on work, thanks for Mr. Kanglong Wu's great book
 
-GitHub address: https://github.com/yasenstar/learn_latex
-Gitee address: https://gitee.com/yasenstar/learn_latex
+- GitHub address: [https://github.com/yasenstar/learn_latex](https://github.com/yasenstar/learn_latex)
+- Gitee address: [https://gitee.com/yasenstar/learn_latex](https://gitee.com/yasenstar/learn_latex)
 
-If you feel the videos are some useful to you, welcome to put your sponsor to me (https://github.com/sponsors/yasenstar) so that I will be encouraged for more works.
+If you feel the videos are some useful to you, welcome to put your sponsor to me ([https://github.com/sponsors/yasenstar](https://github.com/sponsors/yasenstar)) so that I will be encouraged for more works.
 
 Video List (total 26 videos):
 
@@ -76,7 +77,7 @@ Video List (total 26 videos):
 
 ## Archi Tool Modeling Practice - ArchiSurance (ArchiMate)
 
-Using OpenGroup ArchiSurance case study as example, step by step modeling practice in Archi (ArchiMate Modeling Tool), useful for enterprise architect to learn and adopt the hands-on experience to convert static information into linked repository-based model. (Visit support repository in github: https://github.com/yasenstar/ArchiSurance_Practice)
+Using OpenGroup ArchiSurance case study as example, step by step modeling practice in Archi (ArchiMate Modeling Tool), useful for enterprise architect to learn and adopt the hands-on experience to convert static information into linked repository-based model. (Visit support repository in github: [https://github.com/yasenstar/ArchiSurance_Practice](https://github.com/yasenstar/ArchiSurance_Practice))
 
 Video List (total 45 videos):
 
@@ -88,7 +89,7 @@ Video List (total 45 videos):
 
 ## Archi Tool Modeling Practice - ArchiMetal (ArchiMate)
 
-Apply architectural modeling tools for ArchiMate case study - ArchiMetal, repository is here: https://github.com/yasenstar/ArchiMetal_Practice
+Apply architectural modeling tools for ArchiMate case study - ArchiMetal, repository is here: [https://github.com/yasenstar/ArchiMetal_Practice](https://github.com/yasenstar/ArchiMetal_Practice)
 
 Video List (total 38 videos):
 
