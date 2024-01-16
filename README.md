@@ -145,6 +145,7 @@ Video List (Working on, estimated total 50 videos):
 | [YouTube](https://www.youtube.com/playlist?list=PL6DEHvciXKeVzQIMSwYjtMO3v8HmU9OOZ) | ![](https://geps.dev/progress/36) |
 | [西瓜视频](https://www.ixigua.com/7318561329411949071?&&id=7319143671516168713) | ![](https://geps.dev/progress/12) |
 | [抖音](https://www.douyin.com/collection/7318783352662657060/1) | ![](https://geps.dev/progress/12) |
+| [bilibili - #1](https://www.bilibili.com/video/BV1HQ4y177Fz/) | ![](https://geps.dev/progress/6) |
 
 ---
 
