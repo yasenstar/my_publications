@@ -11,7 +11,6 @@ By default, the courses are made in English language, it will be indicated speci
 
 ## Ontology, SPARQL, RDF, Semantics Web, Protege
 
-- Learning SPARQL for Querying RDF by Practice: https://www.udemy.com/course/learning-sparql-for-querying-rdf-by-practice/?referralCode=BA578CE881FA1438F6DF
 - Using Protege for Editing Ontology (Knowledge Graph): https://www.udemy.com/course/using-protege-for-editing-ontology-knowledge-graph/?referralCode=87F3DB203C1BBD24890E
 - Learn Protege - Ontology Editor - through Pizza.owl Tutorial (my first course!): https://www.udemy.com/course/learn-protege-ontology-editor-through-pizzaowl-tutorial/?referralCode=822F51C56E08CC5B7077
 
